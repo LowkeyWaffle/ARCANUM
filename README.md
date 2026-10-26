@@ -2,7 +2,7 @@
 
 A first-person 3D spellcasting arena game that runs entirely in your browser. Fight through tournaments of mages, gods and primordial beasts, chain spells into combos, and survive bosses that adapt to how you play.
 
-**Play it:** `https://<your-username>.github.io/<repo-name>/`  *(replace after enabling GitHub Pages)*
+**Play it:** `(https://lowkeywaffle.github.io/arcanum/)`  *(replace after enabling GitHub Pages)*
 
 ![Arcanum screenshot](screenshot.png)
 
